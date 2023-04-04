@@ -1,6 +1,6 @@
 # rs-clone-server
 
-Сервер https://rs-clone-iqcn.onrender.com
+Сервер [https://rs-clone-iqcn.onrender.com](https://rs-server-react.onrender.com)
 
 ## Запросы для книг
 
